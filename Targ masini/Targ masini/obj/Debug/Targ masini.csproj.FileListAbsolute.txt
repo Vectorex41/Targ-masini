@@ -1,0 +1,6 @@
+C:\Users\ionut\Desktop\Masini\Targ masini\Targ masini\bin\Debug\Targ masini.exe.config
+C:\Users\ionut\Desktop\Masini\Targ masini\Targ masini\bin\Debug\Targ masini.exe
+C:\Users\ionut\Desktop\Masini\Targ masini\Targ masini\bin\Debug\Targ masini.pdb
+C:\Users\ionut\Desktop\Masini\Targ masini\Targ masini\obj\Debug\Targ masini.csprojAssemblyReference.cache
+C:\Users\ionut\Desktop\Masini\Targ masini\Targ masini\obj\Debug\Targ masini.exe
+C:\Users\ionut\Desktop\Masini\Targ masini\Targ masini\obj\Debug\Targ masini.pdb
