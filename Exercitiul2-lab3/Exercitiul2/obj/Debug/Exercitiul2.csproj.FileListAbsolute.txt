@@ -1,0 +1,6 @@
+C:\Users\ionut\Desktop\Exercitiul2-lab3\Exercitiul2\bin\Debug\Exercitiul2.exe.config
+C:\Users\ionut\Desktop\Exercitiul2-lab3\Exercitiul2\bin\Debug\Exercitiul2.exe
+C:\Users\ionut\Desktop\Exercitiul2-lab3\Exercitiul2\bin\Debug\Exercitiul2.pdb
+C:\Users\ionut\Desktop\Exercitiul2-lab3\Exercitiul2\obj\Debug\Exercitiul2.csprojAssemblyReference.cache
+C:\Users\ionut\Desktop\Exercitiul2-lab3\Exercitiul2\obj\Debug\Exercitiul2.exe
+C:\Users\ionut\Desktop\Exercitiul2-lab3\Exercitiul2\obj\Debug\Exercitiul2.pdb
